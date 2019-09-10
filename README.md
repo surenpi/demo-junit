@@ -1,4 +1,4 @@
-This project is aim to provide an easy way to try Jenkins pipeline.
+This project is aim to eeeprovide an easy way to try Jenkins pipeline.
 
 According to different use cases, we provide several Jenkinsfile for you:
 
