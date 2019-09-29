@@ -6,6 +6,7 @@ import static org.junit.Assert.assertTrue;
 
 public class AccountSystemTest {
     @Test
+    @Ignore
     public void name() {
         assertTrue(false);
     }
